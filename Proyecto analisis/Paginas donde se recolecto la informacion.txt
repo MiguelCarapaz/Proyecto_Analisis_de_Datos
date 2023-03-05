@@ -1,0 +1,10 @@
+Colombia:https://www.datos.gov.co/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev/explore/query/SELECT%0A%20%20%60a_o%60%2C%0A%20%20%60c_digo_municipio%60%2C%0A%20%20%60municipio%60%2C%0A%20%20%60c_digo_departamento%60%2C%0A%20%20%60departamento%60%2C%0A%20%20%60c_digo_etc%60%2C%0A%20%20%60etc%60%2C%0A%20%20%60poblaci_n_5_16%60%2C%0A%20%20%60tasa_matriculaci_n_5_16%60%2C%0A%20%20%60cobertura_neta%60%2C%0A%20%20%60cobertura_neta_transici_n%60%2C%0A%20%20%60cobertura_neta_primaria%60%2C%0A%20%20%60cobertura_neta_secundaria%60%2C%0A%20%20%60cobertura_neta_media%60%2C%0A%20%20%60cobertura_bruta%60%2C%0A%20%20%60cobertura_bruta_transici_n%60%2C%0A%20%20%60cobertura_bruta_primaria%60%2C%0A%20%20%60cobertura_bruta_secundaria%60%2C%0A%20%20%60cobertura_bruta_media%60%2C%0A%20%20%60tama_o_promedio_de_grupo%60%2C%0A%20%20%60sedes_conectadas_a_internet%60%2C%0A%20%20%60deserci_n%60%2C%0A%20%20%60deserci_n_transici_n%60%2C%0A%20%20%60deserci_n_primaria%60%2C%0A%20%20%60deserci_n_secundaria%60%2C%0A%20%20%60deserci_n_media%60%2C%0A%20%20%60aprobaci_n%60%2C%0A%20%20%60aprobaci_n_transici_n%60%2C%0A%20%20%60aprobaci_n_primaria%60%2C%0A%20%20%60aprobaci_n_secundaria%60%2C%0A%20%20%60aprobaci_n_media%60%2C%0A%20%20%60reprobaci_n%60%2C%0A%20%20%60reprobaci_n_transici_n%60%2C%0A%20%20%60reprobaci_n_primaria%60%2C%0A%20%20%60reprobaci_n_secundaria%60%2C%0A%20%20%60reprobaci_n_media%60%2C%0A%20%20%60repitencia%60%2C%0A%20%20%60repitencia_transici_n%60%2C%0A%20%20%60repitencia_primaria%60%2C%0A%20%20%60repitencia_secundaria%60%2C%0A%20%20%60repitencia_media%60%0AORDER%20BY%20%60a_o%60%20DESC%20NULL%20LAST/page/filter
+(couchDB)
+
+Ecuador:https://educacion.gob.ec/datos-abiertos/ (MongoDB)
+
+General:https://datos.bancomundial.org/indicador (couchDB)
+
+PERU:https://www.datosabiertos.gob.pe/dataset/alumnos-matriculados (SQL Server)
+
+Estados Unidos=https://nces.ed.gov/programs/digest/d20/tables/dt20_105.20.asp (SQL Server)

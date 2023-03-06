@@ -6,4 +6,4 @@
 
 #link del video: https://vm.tiktok.com/ZMYPMRado/
 
-![Arquitectura](Proyecto analisis\Arquitectura.jpg)
+![Arquitectura](proyecto\ analisis/Arquitectura.jpg)

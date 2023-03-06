@@ -6,5 +6,5 @@
 
 #link del video: https://vm.tiktok.com/ZMYPMRado/
 
-![Ejemplo de imagen](Proyectoanalisis/Arquitectura.jpg)
+![Ejemplo de imagen](Proyecto/analisis/Arquitectura.jpg)
 
